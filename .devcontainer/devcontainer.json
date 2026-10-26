@@ -1,7 +1,7 @@
 {
     "image": "ghcr.io/rocker-org/devcontainer/r-ver:4",
     "features": {
-        "ghcr.io/rocker-org/devcontainer-features/r-packages:1": {
+        "ghcr.io/rocker-org/devcontainer-features/r-packages:2": {
             "packages": "cli,rlang",
             "installSystemRequirements": true,
         },
